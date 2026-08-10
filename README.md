@@ -19,7 +19,7 @@
 
 ## 📖 Overview
 
-This project is an end-to-end **Extract → Transform → Load (ETL)** pipeline built entirely in a single Jupyter Notebook. It scrapes **1,000 book listings** across 50 paginated pages from a live website, cleans the data with Pandas, and loads the final dataset into a MySQL database — practicing the kind of real-world data handling that goes beyond working with an already-clean dataset.
+This project is an end-to-end **Extract → Transform → Load (ETL)** pipeline built entirely in a single Jupyter Notebook. It scrapes **1,000 book listings** across 50 paginated pages from a live website https://books.toscrape.com/ cleans the data with Pandas, and loads the final dataset into a MySQL database — practicing the kind of real-world data handling that goes beyond working with an already-clean dataset.
 
 ---
 
