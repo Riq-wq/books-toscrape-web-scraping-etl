@@ -30,6 +30,8 @@ This project is an end-to-end **Extract → Transform → Load (ETL)** pipeline 
 | File | Description |
 |------|-------------|
 | `web_scraping_etl.ipynb` | Full ETL pipeline notebook (Extract → Transform → Load) |
+| `reports/Web_Scraping_ETL_Report.pdf` | Full written report with findings and recommendations |
+| `generate_report.py` | Report generator script (ReportLab) |
 | `.env` | Database credentials (not committed) |
 | `.env.example` | Template for database credentials |
 | `.gitignore` | Git ignore rules |
